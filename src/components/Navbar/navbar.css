@@ -1,0 +1,9 @@
+nav.navbar.bg-light {
+    width: 100%;
+    height: 5rem;
+    background: #ffffff;
+    display: flex;
+}
+.navbar-brand {
+    margin: 6px 0px 6px 67px;
+}
